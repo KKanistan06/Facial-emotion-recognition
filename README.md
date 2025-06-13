@@ -1,10 +1,8 @@
 # Cross-Cultural Facial Emotion Recognition Research
 
-🔍 **Current Status**
 
 This is ongoing research on Cross-Cultural Facial Emotion Recognition using Transfer Learning. At present, we have finalized our methodology and collected two benchmark datasets (Indian and Japanese). Model training and evaluation will begin in the next phase of the study.
 
----
 
 📚 **Contents**
 
@@ -16,7 +14,6 @@ This is ongoing research on Cross-Cultural Facial Emotion Recognition using Tran
 - [Contributing](#contributing)
 - [License](#license)
 
----
 
 ## Introduction
 
@@ -28,7 +25,6 @@ Facial Emotion Recognition (FER) has applications in human-computer interaction,
 
 🔖 Research Phase: **Methodology defined & Data collected**
 
----
 
 ## Dataset Collection
 
@@ -44,7 +40,6 @@ We have assembled two curated datasets:
 
 All images are cropped to face regions and resized to 224×224 pixels for consistency.
 
----
 
 ## Proposed Methodology
 
@@ -72,7 +67,6 @@ Our transfer learning framework involves:
    - Metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix.
    - Cross-cultural tests: Indian→Japanese and Japanese→Indian.
 
----
 
 ## Planned Experiments 🧪
 
@@ -84,7 +78,6 @@ Our transfer learning framework involves:
    - Compare performance drops.
    - Investigate domain shift mitigation techniques (e.g., adversarial adaptation).
 
----
 
 ## Directory Structure 📁
 
@@ -98,7 +91,6 @@ cross-cultural-fer/
 └── README.md          # This file
 ```
 
----
 
 ## Contributing 🤝
 
@@ -108,7 +100,6 @@ Your feedback and code contributions are welcome! Please:
 2. Create a feature branch 🌿
 3. Submit a Pull Request 📬
 
----
 
 ## License 📄
 
