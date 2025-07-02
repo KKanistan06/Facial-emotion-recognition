@@ -53,6 +53,8 @@ Our transfer learning framework involves:
 2. **Data Augmentation:**
    - Random horizontal flips 🔄
    - Rotations (±15°) 🔄
+   - Translation 🔄
+   - Random Scaling 🔄
    - Brightness & contrast changes 🎨
 
 3. **Model Selection:**
